@@ -1,0 +1,58 @@
+div {
+  border: solid 4px black;
+}
+
+#bigBug {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 650px;
+  width: 500px;
+  border: none;
+}
+#columnOne {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  border: none;
+}
+
+#columnTwo {
+  position: absolute;
+  left: 100px;
+  width: 100px;
+  border: none;
+}
+
+#columnThree {
+  position: absolute;
+  left: 200px;
+  width: 100px;
+  border: none;
+}
+
+#columnFour {
+  position: absolute;
+  left: 300px;
+  width: 100px;
+  border: none;
+}
+
+#columnFive {
+  position: absolute;
+  left: 400px;
+  width: 100px;
+  border: none;
+}
+
+#shh {
+  position: absolute;
+  top: 500px;
+  left: 0px;
+  width: 500px;
+  height: 2000px;
+  background-color: white;
+  border: 10px solid white;
+  border-top: 4px solid black;
+}
